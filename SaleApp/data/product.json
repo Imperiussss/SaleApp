@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "IPHONE 16 PROMAX",
+    "price": 1000,
+    "image": "https://www.techone.vn/wp-content/uploads/2024/09/tita.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 2,
+    "name": "IPHONE 2G",
+    "price": 200,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_MFbaQmtk1ftoGTfWWF1WeBTtFavQCwGq9aNMGGrw8ZDyu3GggqzwgE&s=10",
+    "cate_id": 1
+  },
+  {
+    "id": 3,
+    "name": "IPHONE 3G",
+    "price": 350,
+    "image": "https://didongcaocap.vn/public/upload/product/fullsize/38903-iphone-3gs-16gb-quoc-te-den.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 4,
+    "name": "IPHONE 4",
+    "price": 400,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/23116/dien-thoai-di-dong-apple-iphone-4-dienmay.com-black-b.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 5,
+    "name": "IPHONE 5",
+    "price": 450,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/s/5s-gold_2.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 6,
+    "name": "IPHONE 6",
+    "price": 500,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-6s-hinh_1_6.png",
+    "cate_id": 1
+  },
+  {
+    "id": 6,
+    "name": "BPHONE 5",
+    "price": 300,
+    "image": "https://bphone.bkav.com/WebB4/Bphone4Products/bphone-a85.png",
+    "cate_id": 1
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy S24 ULTRA",
+    "price": 300,
+    "image": "https://bizweb.dktcdn.net/thumb/grande/100/610/709/products/38bb3456-a96f-4af0-b18f-c6bfb8e9fa95-49c6c274-eb52-407b-b67a-70c2e9ab93f9-c54f5292-adbe-48a3-995c-167a6e2ae850.png?v=1763542598157",
+    "cate_id": 1
+  },
+  {
+    "id": 8,
+    "name": "MSI Gaming Laptop",
+    "price": 2500,
+    "image": "https://i5.walmartimages.com/seo/MSI-GL63-Gaming-Laptop-15-6-Intel-Core-i7-8750H-NVIDIA-GeForce-GTX-1050-8gb-RAM-256gb-SSD-1TB-HDD_3a04f0fc-6fed-4b52-912c-11317e493ad1_1.9e46d617254b76bff5a4cda944922f78.jpeg",
+    "cate_id": 3
+  },
+  {
+    "id": 9,
+    "name": "IPAD A16",
+    "price": 500,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-a16-11-inch_10_.jpg",
+    "cate_id": 2
+  }
+]
